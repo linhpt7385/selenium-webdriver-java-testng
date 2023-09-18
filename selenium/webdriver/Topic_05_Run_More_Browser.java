@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 public class Topic_05_Run_More_Browser {
     WebDriver driver;
     String projectPath = System.getProperty("user.dir");
-    //Nap bai run browser
+    //Nap bai run browser11232
 
     @Test
     public void TC_01_Run_On_Firefox() {
